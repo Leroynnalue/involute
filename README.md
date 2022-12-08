@@ -11,7 +11,7 @@ If [Chester](https://github.com/Leroynnalue/chester-py) had an unstructured and 
 
 > NodeJS
 
-# Installation
+# Run Involute
 
 ```
 npm run involute
