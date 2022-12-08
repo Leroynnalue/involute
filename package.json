@@ -1,0 +1,13 @@
+{
+  "name": "involute",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "involute": "node index.js"
+  },
+  "keywords": [],
+  "author": "ALIENXROY",
+  "license": "ISC"
+}
